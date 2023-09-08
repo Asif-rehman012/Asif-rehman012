@@ -1,4 +1,4 @@
-![](https://github.com/Asif-rehman012/Asif-rehman012/blob/main/purple%20banner.png)
+<p><img width ="1200" height="350" align="center" src="https://github.com/Asif-rehman012/Asif-rehman012/blob/main/purple%20banner.png" alt="asif-rehman012" /></p>
 <h1 align="center">Hi 👋, I'm Asif Rehman</h1>
 <h3 align="center">A passionate Software Engineer from India.</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*gReLR6hZjwyBxHmfLN1AVw.gif">
